@@ -1,0 +1,11 @@
+{
+  "name": "02",
+  "version": "1.0.0",
+  "description": "This is my First Assignment on Fundamentals of NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\"Error: no test specified\" "
+  },
+  "author": "MD KUTUB ISLAM",
+  "license": "ISC"
+}
